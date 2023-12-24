@@ -1,4 +1,7 @@
+torch
+transformers 
 pandas
 seaborn
 numpy
 datasets
+argparse
