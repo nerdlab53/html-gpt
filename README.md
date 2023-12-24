@@ -18,3 +18,6 @@
     !pip install torch==2.1.0 transformers==4.31.0 matplotlib==3.8.2 seaborn argparse numpy datasets
   ```
 - **NOTE**: Install torch with CUDA support if using on GPU for even faster training.
+
+## Training vs Validation Losses :
+[!Alt text](./assets/trainvsval.png)
