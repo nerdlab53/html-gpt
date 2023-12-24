@@ -20,4 +20,4 @@
 - **NOTE**: Install torch with CUDA support if using on GPU for even faster training.
 
 ## Training vs Validation Losses :
-[!Alt text](/assets/trainvsval.png)
+![Alt text](/assets/trainvsval.png)
